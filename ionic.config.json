@@ -1,5 +1,7 @@
 {
   "name": "ionic-intercom-demo",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

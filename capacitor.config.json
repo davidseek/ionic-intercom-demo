@@ -1,0 +1,15 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-intercom-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "IntercomPlugin": {
+      "ios-apiKey": "ADDME",
+      "ios-appId": "ADDME",
+      "android-apiKey": "ADDME",
+      "android-appId": "ADDME"
+    }
+  }
+}
